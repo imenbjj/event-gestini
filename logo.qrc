@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/logo">
+        <file>logo gestini.png</file>
+        <file>arrow.png</file>
+    </qresource>
+</RCC>
